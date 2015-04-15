@@ -1,8 +1,3 @@
-title: Pure # site title
-author: Twinkle # your name
-description: Creating a blog layout using Pure # description or subtitle
-email: # used for gravatar
-
 # if you copy an avatar file to ./source folder,
 # just uncomment the variable below,
 # and replace "avatar.png" to your image name.
