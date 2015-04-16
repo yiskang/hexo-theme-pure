@@ -11,14 +11,14 @@ menu:
 
 # comments system
 # disqus always goes first once configured
-disqus_shortname: 
+disqus_shortname: 13note 
 duoshuo_shortname: 
 
 # social links
 weibo: # id but not nickname, example: levicorpus / 1997375853
-github: # username, example: saintwinkle
+github: yiskang # username, example: saintwinkle
 gplus: # google+ id, don't forget symbol "+", example: +周一
 twitter: # username, example: saintwinkle
 
 # google analytics, example: UA-12345678-1
-google_analytics: 
+google_analytics: UA-61935076-1
