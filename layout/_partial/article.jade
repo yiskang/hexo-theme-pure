@@ -20,7 +20,7 @@
   if !index
     !=partial('post/nav')
   if !index && post.comments
-    if theme.disqus_shortname && page.disqus
+    if theme.disqus_shortname && (page.disqus || disqus)
       #disqus_thread
-    else if theme.duoshuo_shortname && page.duoshuo
+    else if theme.duoshuo_shortname && (page.duoshuo || duoshuo)
       .ds-thread(data-thread-key="#{post.layout}-#{post.slug}" data-title=post.title data-url=post.permalink)
