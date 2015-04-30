@@ -15,8 +15,9 @@ disqus_shortname: 13note
 duoshuo_shortname: 
 
 # social links
-weibo: # id but not nickname, example: levicorpus / 1997375853
+#weibo: # id but not nickname, example: levicorpus / 1997375853
 github: yiskang # username, example: saintwinkle
+facebook: yisheng.kang
 gplus: # google+ id, don't forget symbol "+", example: +周一
 twitter: # username, example: saintwinkle
 
